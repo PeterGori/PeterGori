@@ -16,6 +16,8 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterGori&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
+![PeterGori's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterGori&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!---
 PeterGori/PeterGori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
